@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Embedded Style Sheet</title>
+<link rel="external-stylesheet" href="https://github.com/Jamerson1/external-ccs-style-sheet/blob/master/style-sheet  ">
 <style type="text/css">
     h1  {
        text-align: center;
@@ -37,6 +38,4 @@
        text-align: center;
     }
 
- </style>
- </head>
- <body>
+ 
